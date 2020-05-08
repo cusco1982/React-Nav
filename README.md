@@ -1,4 +1,4 @@
-# React-Nav
+# React-Nav-Template
 
 - React template with 
     . mobile-friendly navbar/burger components
