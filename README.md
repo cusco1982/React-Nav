@@ -4,4 +4,3 @@
     . mobile-friendly navbar/burger components
     . puppy matchmaking
     . puppy api search
-    
